@@ -14,3 +14,6 @@ Roxygen: list(markdown = TRUE)
 URL: https://github.com/miur1790/libminer
 BugReports: https://github.com/miur1790/libminer/issues
 Config/roxygen2/version: 8.1.0
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
